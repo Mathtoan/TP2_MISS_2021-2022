@@ -1,0 +1,2 @@
+PCA : dimension reduction + main mode of variation 
+keep the greatest variability when reducting dimension, hence the COV
